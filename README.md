@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/MelissaN/simple_shell/master/shell.gif">
 ## Simple Shell
 > In this project, we coded from scratch a simple Unix shell. A shell is an interactive
 > command-line interpreter. We created a shell that would utilize the command line
@@ -17,8 +16,7 @@
 > have more functionality. Our shell is a simple version that handles memory leaks
 > very well and has basic functionality. You can create/write/read/open/remove
 > folders, print things to the terminal, change directories, print where you are
-> in the system, etc. [To read more on how a shell works behind the scenes, visit our
- blog here](https://medium.com/@MelissaNg__/how-a-shell-works-8a5a461c1910).
+> in the system, etc.
 
 
 ### Synopsis
@@ -70,14 +68,14 @@ print_error.c ---------------------- prints special error messages for certain f
 ```
 ### Environment
 * Language: C
-* OS: Ubuntu 14.04 LTS
+* OS: Ubuntu 20.10 LTS
 * Compiler: gcc 4.8.4
 * Style guidelines: [Betty style](https://github.com/holbertonschool/Betty/wiki)
 
 ## How To Install, Compile, and Use
 Install and Compile
 ```
-(your_terminal)$ git clone https://github.com/MelissaN/simple_shell.git
+(your_terminal)$ git clone https://github.com/akubosylva/simple_shell.git
 (your_terminal)$ cd simple_shell
 (your_terminal)$ gcc -Wall -Werror -Wextra -pedantic -Wno-format *.c -o simple_shell
 ```
@@ -113,5 +111,5 @@ $ exit
 
 ---
 ### Authors
-Kevin Yook [![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/30px-Twitter_Bird.svg.png)](https://twitter.com/yook00627)
-Melissa Ng [![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/30px-Twitter_Bird.svg.png)](https://twitter.com/MelissaNg__)
+Akubo Ojonugwa Sylvanus
+Apeh Ikojo Endurance
